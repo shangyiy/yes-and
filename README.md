@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/mascot.png" alt="A capybara in a hoodie holding a coffee mug, with a + speech bubble" width="200"></p>
+<p align="center"><img src="assets/mascot.png" alt="A capybara in a hoodie holding a coffee mug, with a + speech bubble" width="400"></p>
 
 # Yes, And
 
