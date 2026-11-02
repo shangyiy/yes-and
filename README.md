@@ -28,4 +28,4 @@ The key questions:
 - Who actually matters in this decision, and what are they trying to achieve or protect?
 - Did the other person feel understood before you tried to move them toward a solution?
 
-The principles behind these exercises are written up as the [perspective skill](https://github.com/shangyiy/life-kit/tree/main/skills/domain/perspective).
+The principles behind these exercises are written up as the [perspective skill](https://github.com/shangyiy/life-kit/tree/main/skills/core/perspective).
