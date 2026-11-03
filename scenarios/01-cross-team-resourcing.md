@@ -42,7 +42,7 @@ Most people open by repeating how important their project is, or by offering to 
 
 1. **Know why your project matters.** Before the meeting, learn where the project comes from, who asks for it, how high its priority is, and what it brings. Anyone asked to move capacity needs this reason: IT, another team, or a sponsor.
 2. **Find the actual constraint.** It could be provisioning effort, capacity, access, operational risk, or competing reservations. Each needs a different fix. Reducing IT's work is not the same as getting GPUs.
-3. **See who can decide.** Once IT's limits are clear, notice that IT cannot decide for other teams. Your next step is to talk to the team that holds the reservation, or to the sponsor who sets priority. Pushing the IT lead harder will not help.
+3. **See who can decide, then change direction.** Once IT's limits are clear, you can see the IT lead cannot make this decision. Stop pressing them. Take it to the people who can: the team that holds the reservation, or the sponsor or manager who sets priority. Bring what IT told you about the constraints, ideally with the IT lead's understanding, so you do not start from zero.
 4. **Build a feasible agreement, matched to the constraint.** The options are:
    - A limited pilot on intermittent capacity, with preemption, quotas, monitoring, and time-limited access.
    - A capacity exchange with the team that holds the reservation.
